@@ -1,0 +1,90 @@
+{
+  "name": "apply_test",
+  "email": "apply_test.test@gmail.com",
+  "address": "Address of Apply test",
+  "phoneNo": "7894561300",
+  "gender": "male",
+  "relationshipStatus": "unmarried",
+  "educationDetails": [
+    {
+      "educationLevel": "SSC",
+      "boardName": "ssc board",
+      "passingYear": "2019",
+      "percentage": 12.11
+    },
+    {
+      "educationLevel": "HSC",
+      "boardName": "hsc board",
+      "passingYear": "2019",
+      "percentage": 13.11
+    },
+    {
+      "educationLevel": "Bachelor",
+      "boardName": "Bachelor board",
+      "passingYear": "2022",
+      "percentage": 13.11
+    },
+    {
+      "educationLevel": "Master",
+      "boardName": "master board",
+      "passingYear": "2024",
+      "percentage": 14.11
+    }
+  ],
+  "company": [
+    "comp_1",
+    "comp_2"
+  ],
+  "designation": [
+    "des_1",
+    "des_2"
+  ],
+  "from": [
+      "2022-01-02",
+	  "2022-01-22"
+  ],
+  "to": [
+      "2022-01-22",
+      "2022-01-22"
+  ],
+  "techName": [
+    null,
+    null,
+    "false",
+	null
+  ],
+  "phpLevel": "mediator",
+  "mysqlLevel": "expert",
+  "oracleLevel": null,
+  "laravelLevel": "begginer",
+  "langName": [
+    null,
+    "false",
+    "false"
+  ],
+  "langLevel": [
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      "false",
+      "false",
+      "false"
+    ],
+    [
+      "false",
+      "false",
+      "false"
+    ]
+  ],
+  "location": [
+    "Sola",
+    "Sattadhar"
+  ],
+  "notice": 6,
+  "expectedCtc": 400000,
+  "currentCtc": 360000,
+  "department": "dev"
+}
