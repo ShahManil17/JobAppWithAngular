@@ -4310,11 +4310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Manil Shah\\Work\\JobApplicationAPIs\\JobApplicationAPIs\\JobApplicationAPIs.csproj",
+      "projectUniqueName": "C:\\Manil Shah\\GitFile\\AngularJobApp\\JobAppWithAngular\\Api\\JobApplicationAPIs\\JobApplicationAPIs.csproj",
       "projectName": "JobApplicationAPIs",
-      "projectPath": "C:\\Manil Shah\\Work\\JobApplicationAPIs\\JobApplicationAPIs\\JobApplicationAPIs.csproj",
+      "projectPath": "C:\\Manil Shah\\GitFile\\AngularJobApp\\JobAppWithAngular\\Api\\JobApplicationAPIs\\JobApplicationAPIs.csproj",
       "packagesPath": "C:\\Users\\Manil Shah\\.nuget\\packages\\",
-      "outputPath": "C:\\Manil Shah\\Work\\JobApplicationAPIs\\JobApplicationAPIs\\obj\\",
+      "outputPath": "C:\\Manil Shah\\GitFile\\AngularJobApp\\JobAppWithAngular\\Api\\JobApplicationAPIs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

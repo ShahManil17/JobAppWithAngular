@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
@@ -11,5 +11,14 @@ import { RouterOutlet } from '@angular/router';
   ]
 })
 export class AppComponent {
+  constructor(private elementRef:ElementRef) { }
   title = 'routing-demo';
+  ngOnInit(): void {
+    // Example of the dom in angular
+    // this.elementRef.nativeElement.querySelector('#checkLoad')
+    //                             .addEventListener('load', () => {
+    //                               console.log('In Onload');
+    //                               location.href = './welcome';
+    //                             });
+  }
 }

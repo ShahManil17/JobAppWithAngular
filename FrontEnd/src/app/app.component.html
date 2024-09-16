@@ -61,19 +61,18 @@
 }
 </style>
 
-<div class="d-flex">
+<div class="d-flex" id="checkLoad">
   <div class="" style="width:15%; height:717px; background-color:rgb(170, 168, 168); border-radius: 10px;">
     <ul style="list-style-type:none;" class="text-center ps-0 pt-5 bg-secondary">
         <li class="sidebar p-2 mb-3">
-            <a asp-action="Index" asp-controller="Home" style="text-decoration:none; color:aliceblue; font-size:20px;">Apply</a>
+            <a href="./apply" style="text-decoration:none; color:aliceblue; font-size:20px;">Apply</a>
         </li>
         <li class="sidebar p-2 mb-3">
-          <a asp-action="Index" asp-controller="Home" style="text-decoration:none; color:aliceblue; font-size:20px;">List</a>
+          <a href="./list" style="text-decoration:none; color:aliceblue; font-size:20px;">List</a>
       </li>
     </ul>
   </div>
   <div style="width: 85%; height: 717px;">
-    <ul><li>ajhjhbj</li></ul>
     <router-outlet />
   </div>
 </div>
