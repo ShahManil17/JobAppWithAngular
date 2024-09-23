@@ -30,6 +30,7 @@ namespace JobApplicationAPIs.Controllers
                         .Where(x => x.UserName == model.UserName && x.Password == model.Password)
                         .ToList();
             // Code of cherry pick main
+            // Code of cherryTest
             // Simulate user authentication (replace with actual authentication logic)
             if (data.Any())
             {
